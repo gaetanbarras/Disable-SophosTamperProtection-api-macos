@@ -53,16 +53,16 @@ The script will:
 ## 🧠 Example Output
 
 ```bash
-🔍 Detected Serial Number: J32MV7C32C
-🔍 Detected MAC Address: 60:3E:5F:5C:4A:86
+🔍 Detected Serial Number: XXXXXXXX1234
+🔍 Detected MAC Address: XX:XX:XX:XX:XX:XX
 🔐 Getting Sophos API token...
 ✅ Token retrieved.
 🌍 Getting tenant info...
-✅ Tenant ID: fef4a23b-27f2-453b-b185-012432ddac9e
-✅ Region: https://api-eu01.central.sophos.com
-🔎 Searching for endpoint with MAC address: 60:3E:5F:5C:4A:86
-✅ Endpoint ID found: e57d05eb-e0af-464e-a476-daaac4f4d87a
-🛡️ Disabling Tamper Protection for endpoint ID: e57d05eb-e0af-464e-a476-daaac4f4d87a
+✅ Tenant ID: ********-****-****-****-************
+✅ Region: https://api-xx01.central.sophos.com
+🔎 Searching for endpoint with MAC address: XX:XX:XX:XX:XX:XX
+✅ Endpoint ID found: ********-****-****-****-************
+🛡️ Disabling Tamper Protection for endpoint ID: ********-****-****-****-************
 ✅ Tamper Protection successfully disabled.
 ```
 
