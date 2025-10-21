@@ -1,0 +1,1 @@
+# Disable-SophosTamperProtection-api-macos
