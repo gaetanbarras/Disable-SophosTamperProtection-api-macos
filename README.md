@@ -140,5 +140,3 @@ Copyright (c) 2025 Gaëtan Barras
 ## 👨‍💻 Author
 
 **Gaëtan Barras**  
-IT Operations Manager  
-[GitHub Repository](https://github.com/) (replace with your repo URL)
